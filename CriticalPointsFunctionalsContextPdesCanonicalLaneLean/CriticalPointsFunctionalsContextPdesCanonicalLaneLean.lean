@@ -1,0 +1,7 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace CriticalPointsFunctionalsContextPdesCanonicalLaneLean
+
+end CriticalPointsFunctionalsContextPdesCanonicalLaneLean
+end HautevilleHouse
